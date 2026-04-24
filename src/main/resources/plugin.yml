@@ -1,0 +1,5 @@
+name: TotemKill
+version: 1.0
+main: me.ImIpscanning.totemkill.TotemKill
+api-version: 1.20
+author: ImIpscanning

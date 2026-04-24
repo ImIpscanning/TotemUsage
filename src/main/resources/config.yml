@@ -1,0 +1,11 @@
+totem-animation: true
+
+sound:
+  enabled: true
+  type: ITEM_TOTEM_USE
+  volume: 1.0
+  pitch: 1.0
+
+message:
+  enabled: true
+  text: "&aHas matado a &e%player%"
