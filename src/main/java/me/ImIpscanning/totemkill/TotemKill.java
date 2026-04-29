@@ -24,10 +24,8 @@ public class TotemKill extends JavaPlugin implements Listener {
 
         if (killer == null) return;
 
-        // 🔥 Animación REAL de tótem
         killer.playEffect(EntityEffect.TOTEM_RESURRECT);
 
-        // 🔊 Sonido del tótem
         killer.playSound(killer.getLocation(), Sound.ITEM_TOTEM_USE, 1f, 1f);
     }
 }
