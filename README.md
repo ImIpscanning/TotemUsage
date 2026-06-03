@@ -1,220 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:374151,100:E5E7EB&height=220&section=header&text=TotemUsage&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Lightweight%20Paper%20plugin%20for%20totem%20kill%20effects&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4B5563,100:E5E7EB&height=220&section=header&text=ipscanning&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Databases%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&lines=Clean+Minecraft+plugin.;Totem+effect+on+player+kills.;Built+with+Java+and+Paper+API.;Simple.+Lightweight.+Effective." />
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Paper_API-1.20.x-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft-Plugin-62B47A?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=820&height=45&lines=Building+secure+and+structured+software.;Designing+database-driven+systems.;Learning+cybersecurity+with+a+defensive+mindset.;Code.+Secure.+Optimize." alt="Typing Animation" />
 
 </div>
 
----
-
-## Overview
-
-**TotemUsage** is a lightweight Minecraft Paper plugin that plays a **Totem of Undying effect** when a player kills another player.
-
-It is designed to be simple, clean and easy to use, adding a visual and audio reward effect without adding unnecessary complexity.
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-imipscanning-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Email-imipscanning%40gmail.com-374151?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</p>
 
 ---
 
-## Features
-
-- Totem resurrection animation on player kill
-- Totem sound effect for the killer
-- Lightweight event-based logic
-- Built with Java 17
-- Designed for Paper servers
-- Simple Maven project structure
-
----
-
-## How It Works
-
-When a player kills another player, the plugin detects the kill event and applies the totem effect to the killer.
-
-```txt
-Player kills another player
-        ↓
-Plugin detects the kill
-        ↓
-Totem animation is played
-        ↓
-Totem sound is played
-```
-
----
-
-## Requirements
-
-| Requirement | Version |
-|---|---|
-| Java | 17+ |
-| Server | Paper / Paper-based server |
-| Minecraft API | 1.20.x |
-| Build Tool | Maven |
-
----
-
-## Installation
-
-1. Download the compiled `.jar` file from the releases section.
-2. Place the `.jar` inside your server's `plugins` folder.
-3. Restart your server.
-4. The plugin will load automatically.
-
-```txt
-server/
-└── plugins/
-    └── TotemKill.jar
-```
-
----
-
-## Build From Source
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ImIpscanning/TotemUsage.git
-cd TotemUsage
-```
-
-Build with Maven:
-
-```bash
-mvn clean package
-```
-
-The compiled plugin will be generated inside:
-
-```txt
-target/
-```
-
----
-
-## Project Structure
-
-```txt
-TotemUsage/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── me/
-│       │       └── ImIpscanning/
-│       │           └── totemkill/
-│       │               └── TotemKill.java
-│       └── resources/
-│           ├── plugin.yml
-│           └── config.yml
-├── pom.xml
-└── README.md
-```
-
----
-
-## Plugin Information
+## Professional Profile
 
 ```yaml
-name: TotemKill
-version: 1.0
-main: me.ImIpscanning.totemkill.TotemKill
-api-version: 1.20
+name: ipscanning
+github: imipscanning
+email: imipscanning@gmail.com
+
+role: Java Developer
+focus: Backend Development, Databases and Cybersecurity
+mindset: Clean code, secure logic and constant improvement
 ```
 
----
+I focus on building **clean, secure and structured software** with a strong interest in **Java development**, **database-driven systems**, **backend logic** and **cybersecurity**.
 
-## Configuration
-
-The repository includes a basic `config.yml` structure for future customization:
-
-```yaml
-totem-animation: true
-
-sound:
-  enabled: true
-  type: ITEM_TOTEM_USE
-  volume: 1.0
-  pitch: 1.0
-
-message:
-  enabled: true
-  text: "&aHas matado a &e%player%"
-```
+My goal is to understand how real systems work internally: how data is stored, how applications communicate, how vulnerabilities appear and how safer software can be designed from the beginning.
 
 ---
 
-## Technologies Used
+## Core Focus
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=ED8B00&center=true&vCenter=true&width=260&height=38&lines=Java+Development;OOP+Principles;Backend+Logic;Clean+Architecture" alt="Java Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=4479A1&center=true&vCenter=true&width=260&height=38&lines=Databases;SQL+Queries;Data+Modeling;Secure+Storage" alt="Database Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=E5E7EB&center=true&vCenter=true&width=260&height=38&lines=Cybersecurity;Secure+Coding;Authentication;Defensive+Thinking" alt="Cybersecurity Focus" />
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="48" height="48" alt="Maven" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-
-</div>
+<p align="center">
+  Java development, database design and cybersecurity fundamentals focused on building reliable, organized and secure systems.
+</p>
 
 ---
 
-## Code Example
+## Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="46" height="46" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="46" height="46" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="46" height="46" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="46" height="46" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="46" height="46" alt="SQLite" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="46" height="46" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="46" height="46" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="46" height="46" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="46" height="46" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="46" height="46" alt="IntelliJ IDEA" />
+</p>
+
+---
+
+## Security Mindset
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=820&height=40&lines=Security+belongs+inside+the+architecture.;Clean+code+reduces+risk.;Good+systems+are+designed+to+be+safe." alt="Security Mindset" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Secure%20Coding-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Input%20Validation-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Security-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20Injection%20Prevention-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Authentication-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend%20Security-1F2937?style=flat-square" />
+</p>
+
+---
+
+## Development Philosophy
 
 ```java
-@EventHandler
-public void onKill(PlayerDeathEvent event) {
-    Player deadPlayer = event.getEntity();
-    Player killer = deadPlayer.getKiller();
+public class Ipscanning {
+    private final String focus = "Java, Databases and Cybersecurity";
+    private final String principle = "Clean code. Secure logic. Strong systems.";
 
-    if (killer == null) return;
+    public void build() {
+        System.out.println("Designing software with structure and purpose.");
+    }
 
-    killer.playEffect(EntityEffect.TOTEM_RESURRECT);
-    killer.playSound(killer.getLocation(), Sound.ITEM_TOTEM_USE, 1f, 1f);
+    public void secure() {
+        System.out.println("Thinking about vulnerabilities before they happen.");
+    }
+
+    public void improve() {
+        System.out.println("Learning constantly and refining every project.");
+    }
 }
 ```
 
 ---
 
-## Status
+## Current Direction
 
 ```diff
-+ Lightweight plugin
-+ Clean event listener
-+ Totem visual effect
-+ Totem sound effect
-+ Maven-based project
-```
-
----
-
-## Author
-
-Developed by **ImIpscanning**.
-
-```txt
-Simple plugin.
-Clean effect.
-Better kill feedback.
++ Improving Java development skills
++ Practicing database design
++ Building stronger backend logic
++ Studying cybersecurity fundamentals
++ Writing cleaner and more secure code
++ Creating organized project structures
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=E5E7EB&center=true&vCenter=true&width=650&lines=Thanks+for+checking+out+TotemUsage.;Built+for+Paper+servers.;Simple.+Clean.+Lightweight." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=680&height=40&lines=Clean+code.;Secure+logic.;Strong+databases.;Better+systems." alt="Footer Typing" />
 
-<br><br>
+<h3>Code. Secure. Optimize.</h3>
 
-<strong>TotemUsage</strong> — Java Minecraft Plugin
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,50:374151,100:0F172A&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,50:4B5563,100:111827&height=120&section=footer" alt="Footer" />
 
 </div>
